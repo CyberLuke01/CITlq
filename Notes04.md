@@ -1,5 +1,5 @@
 # CIT 114
-# AWS Cloud Security
+## AWS Cloud Security
 *AWS Shared Responsibility Model*
 - The Customer is responsible for security 'in' the cloud
 - AWS is responsible for security 'of' the cloud
