@@ -1,5 +1,5 @@
-# CIT 114
-## AWS Cloud Security
+## CIT 114
+# AWS Cloud Security
 *AWS Shared Responsibility Model*
 - The Customer is responsible for security 'in' the cloud
 - AWS is responsible for security 'of' the cloud
@@ -28,3 +28,7 @@
 - AWS Shield is a DDoS protection service
 - AWS supports encryption of data at rest (stored physically)
 - Encryption of data in transit
+
+### New Facts
+- Customer has more control over networking and storage settings
+- Customer has control over managaing code and data
