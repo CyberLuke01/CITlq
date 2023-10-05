@@ -1,5 +1,5 @@
-# CIT 114
-## Networking and Content Delivery
+## CIT 114
+# Networking and Content Delivery
 *Networking Basics*
 - Networks consist of a router and subnets
 - IP, IPv4 and IPv6 addresses
