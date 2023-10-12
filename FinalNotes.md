@@ -43,11 +43,12 @@
 - Networks consist of a router and subnets
 - CIDR consists of a network identifer (routing prefix) and host identifier
 - Subnets are ranges of IP addresses that divide a VPC
-- Private subnets do not have direct access to the internet
+- Private subnets do not have direct access to the internet, which can only be given by a NAT gateway
 - MAXIMUM subnet range is /16, MINIMUM subnet range is /28
 - Elastic network interface can be attached/detached to an instance
 - Only one IGW can be used with a VPC at one time
 - Two types of endpoints: Gateway and Interface
+- A Network Access Control List (ACL) is another layer of security at the subnet level
 - Route 53 is a scalable Domain Name System (DNS) web service, that is used to route users to web applications
 - Route 53 supports different kinds of routing, including Simple, Weighted, Latency, etc.
 - CloudFront is a fast, global, and secure CDN service, and self-service model that consists of edge locations and regional edge cache
