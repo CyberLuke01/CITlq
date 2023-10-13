@@ -18,7 +18,7 @@
 *AWS Global Infrastructure Overview*
 - An AWS Region is a geographical area that usually conists of two or more availability zones
 - Each region has multiple availability zones, which consist of one or more data centers
-- Availability zoned are designed for fault isolation and are connect with other zones by private high-speed links
+- Availability zones are designed for fault isolation and are connected with other zones by private high-speed links
 - AWS recommends replicating data and other resources across availability zones
 - Each availability zone is a separated partition of the AWS infastructure
 - AWS Edge Locations are used to ensure low latency delivery
